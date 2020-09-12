@@ -38,7 +38,9 @@ body {
     justify-content: space-around;
 }
 
-.nav-list-item {}
+.nav-list-item {
+    font-weight: bold;
+}
 
 .nav-list-item a:link {
     text-decoration: none;
