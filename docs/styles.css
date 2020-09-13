@@ -17,8 +17,8 @@ body {
 
 .container {
     background-color: var(--bGColor2);
-    padding: 1%;
-    margin-top: 1%;
+    padding: 1% 5% 1% 5%;
+    margin-top: 2%;
 }
 
 #header-container {
