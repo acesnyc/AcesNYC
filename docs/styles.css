@@ -19,6 +19,7 @@ body {
     background-color: var(--bGColor2);
     padding: 1% 5% 1% 5%;
     margin-top: 2%;
+    border-radius: 4px;
 }
 
 #header-container {
