@@ -80,6 +80,6 @@ h5 {
 }
 
 img.whoscoming {
-  width: 300px;
-  height: 96px;
+  width: auto;
+  height: 150px;
 }
