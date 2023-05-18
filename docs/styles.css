@@ -71,3 +71,10 @@ body {
 h5 {
     color: grey;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
