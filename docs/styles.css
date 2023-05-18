@@ -81,4 +81,6 @@ h5 {
 
 img.whoscoming {
   max-height: 150px;
+  width: auto;
+  height:auto;
 }
